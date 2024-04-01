@@ -1,11 +1,10 @@
  <div align="center">
     <h1 align="center">Hi, I'm <a href="https://www.tiktok.com/@alansitohot69">DeadAVA</a> 🥵</h1>
   </div>
-  ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
-  
-[![Twitch Status](https://img.shields.io/twitch/status/alansitohot69)](https://www.twitch.tv/alansitohot69)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Tiktok](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+ <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
+[![ig](https://github.com/DeadAVA/DeadAVA/assets/107895779/f2be3e91-1fb7-4911-9472-318dceb164e0)]()
+[![twitch](https://github.com/DeadAVA/DeadAVA/assets/107895779/28943653-a3d4-410f-8879-053bcb6b32fd)]()
+[![Tiktok](https://github.com/DeadAVA/DeadAVA/assets/107895779/1843b8b6-807d-4722-a0e3-27ff8b3dcbaa)]()
 
 ## Sobre mi
 
