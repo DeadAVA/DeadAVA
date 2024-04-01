@@ -3,8 +3,8 @@
   </div>
  <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
  
-[![ig](https://github.com/DeadAVA/DeadAVA/assets/107895779/f2be3e91-1fb7-4911-9472-318dceb164e0)]()
-[![twitch](https://github.com/DeadAVA/DeadAVA/assets/107895779/28943653-a3d4-410f-8879-053bcb6b32fd)]()
+[![ig](https://github.com/DeadAVA/DeadAVA/assets/107895779/f2be3e91-1fb7-4911-9472-318dceb164e0)](https://www.instagram.com/alansitohot69/)
+[![twitch](https://github.com/DeadAVA/DeadAVA/assets/107895779/28943653-a3d4-410f-8879-053bcb6b32fd)](https://www.twitch.tv/alansitohot69)
 [![Tiktok](https://github.com/DeadAVA/DeadAVA/assets/107895779/1843b8b6-807d-4722-a0e3-27ff8b3dcbaa)](https://www.tiktok.com/@alansitohot69)
 
 ## Sobre mi
