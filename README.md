@@ -2,17 +2,23 @@
     <h1 align="center">Hi, I'm <a href="https://www.tiktok.com/@alansitohot69">DeadAVA</a> 🥵</h1>
   </div>
  <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
+ 
 [![ig](https://github.com/DeadAVA/DeadAVA/assets/107895779/f2be3e91-1fb7-4911-9472-318dceb164e0)]()
 [![twitch](https://github.com/DeadAVA/DeadAVA/assets/107895779/28943653-a3d4-410f-8879-053bcb6b32fd)]()
-[![Tiktok](https://github.com/DeadAVA/DeadAVA/assets/107895779/1843b8b6-807d-4722-a0e3-27ff8b3dcbaa)]()
+[![Tiktok](https://github.com/DeadAVA/DeadAVA/assets/107895779/1843b8b6-807d-4722-a0e3-27ff8b3dcbaa)](https://www.tiktok.com/@alansitohot69)
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+45k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- ⭐ Coding for fun ⭐ 
+- 📲 Web Developer and Videogames Developer
+
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/DeadAVA">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeadAVA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeadAVA&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
