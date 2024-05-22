@@ -7,7 +7,7 @@
 [![twitch](https://github.com/DeadAVA/DeadAVA/assets/107895779/28943653-a3d4-410f-8879-053bcb6b32fd)](https://www.twitch.tv/alansitohot69)
 [![Tiktok](https://github.com/DeadAVA/DeadAVA/assets/107895779/1843b8b6-807d-4722-a0e3-27ff8b3dcbaa)](https://www.tiktok.com/@alansitohot69)
 
-## Sobre mi
+## About me
 
 - ⭐ Coding for fun ⭐ 
 - 📲 Web Developer and Videogames Developer
