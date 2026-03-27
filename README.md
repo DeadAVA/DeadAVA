@@ -43,15 +43,6 @@ Soy **Desarrollador Web** y **Desarrollador de Videojuegos**. Me gusta crear pro
 
 ## Featured Projects / Proyectos destacados
 
-**EN:**  
-Pin 2–4 repositories here that represent your best work (clean README, screenshots/demo, clear setup).
-
-**ES:**  
-Fija (pin) 2–4 repos aquí que representen tu mejor trabajo (README limpio, capturas/demo y pasos claros para ejecutar).
-
-> If you tell me which repos you want to highlight, I’ll write a short bilingual “pitch” for each one.
-
----
 
 ### ⚙️ &nbsp;GitHub Analytics
 
