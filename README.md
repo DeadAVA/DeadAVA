@@ -1,50 +1,48 @@
 <div align="center">
-  <h1 align="center">Hi, I'm <a href="https://www.tiktok.com/@alansitohot69">DeadAVA</a> 🥵</h1>
+  <h1>Hi, I'm Alan (DeadAVA) 👋</h1>
+  <p><b>Web Developer & Video Game Developer</b></p>
+  <p>Building full-stack products, backend systems, and games — from academic exercises to production-shaped SaaS apps.</p>
 </div>
-<img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif">
 
-[![ig](https://github.com/DeadAVA/DeadAVA/assets/107895779/f2be3e91-1fb7-4911-9472-318dceb164e0)](https://www.instagram.com/alansitohot69/)
-[![twitch](https://github.com/DeadAVA/DeadAVA/assets/107895779/28943653-a3d4-410f-8879-053bcb6b32fd)](https://www.twitch.tv/alansitohot69)
-[![Tiktok](https://github.com/DeadAVA/DeadAVA/assets/107895779/1843b8b6-807d-4722-a0e3-27ff8b3dcbaa)](https://www.tiktok.com/@alansitohot69)
+<p align="center">
+  <a href="https://www.instagram.com/alansitohot69/"><img src="https://github.com/DeadAVA/DeadAVA/assets/107895779/f2be3e91-1fb7-4911-9472-318dceb164e0" height="32" alt="Instagram"/></a>
+  &nbsp;
+  <a href="https://www.twitch.tv/alansitohot69"><img src="https://github.com/DeadAVA/DeadAVA/assets/107895779/28943653-a3d4-410f-8879-053bcb6b32fd" height="32" alt="Twitch"/></a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@alansitohot69"><img src="https://github.com/DeadAVA/DeadAVA/assets/107895779/1843b8b6-807d-4722-a0e3-27ff8b3dcbaa" height="32" alt="TikTok"/></a>
+</p>
 
 ---
 
 ## About / Sobre mí
 
-**EN:**  
-I’m a **Web Developer** and **Video Game Developer** who enjoys building practical projects, learning by shipping, and improving code quality over time.
+**EN:** I'm a Web Developer and Video Game Developer based in Mexico. I like shipping practical, working software end-to-end — from the database schema to the UI — and iterating fast. My recent work spans a full SaaS platform (auth, payments, AI integration), backend systems for real operational use cases (lab management, academic scheduling), an AI-assisted safety application, and 2D/networked games.
 
-**ES:**  
-Soy **Desarrollador Web** y **Desarrollador de Videojuegos**. Me gusta crear proyectos prácticos, aprender construyendo y mejorar la calidad del código con el tiempo.
+**ES:** Soy Desarrollador Web y de Videojuegos, radicado en México. Me gusta construir software práctico de punta a punta —desde el esquema de base de datos hasta la interfaz— e iterar rápido. Mi trabajo reciente incluye una plataforma SaaS completa (auth, pagos, integración con IA), sistemas backend para casos de uso operativos reales (gestión de laboratorio, horarios académicos), una aplicación de IA con enfoque social, y juegos 2D/en red.
 
-### What I do / Qué hago
+## Tech stack
 
-**EN:**
-- Build web applications and interactive experiences.
-- Create game prototypes/systems and iterate quickly.
-- Focus on readable code, maintainability, and continuous learning.
+**Frontend:** TypeScript · React · Next.js · Tailwind CSS
+**Backend:** Python · Flask · Node.js · REST APIs
+**Data:** PostgreSQL · SQLite · Prisma · SQLAlchemy
+**Other:** C++ (OOP) · Docker · Stripe · NextAuth · Pygame · Claude/Anthropic API
 
-**ES:**
-- Desarrollo aplicaciones web y experiencias interactivas.
-- Creo prototipos/sistemas de juegos e itero rápido.
-- Me enfoco en código legible, mantenibilidad y aprendizaje continuo.
+## Featured projects / Proyectos destacados
 
-### Currently / Actualmente
+| Proyecto | Descripción |
+|---|---|
+| 🎓 **[Vertex Academic](https://github.com/DeadAVA/Vertex)** | Plataforma SaaS de aprendizaje de matemáticas: cursos, solver asistido por IA (Claude), suscripciones con Stripe y panel admin. Next.js + Prisma + PostgreSQL. |
+| 🧪 **[FICOTOX](https://github.com/DeadAVA/FICOTOX)** | Sistema web de gestión de laboratorio: inventario, muestras, trazabilidad, SSO corporativo y respaldos automáticos. Flask + SQLAlchemy. |
+| 📅 **[Gestor de Horarios](https://github.com/DeadAVA/Gestor-de-Horarios)** | Sistema académico de horarios con reglas de negocio, migraciones, pruebas automatizadas y exportaciones a Excel/Word/PDF. Flask + SQLite. |
+| 🗣️ **[Voz Segura IA](https://github.com/DeadAVA/Voz-Segura-IA)** | Asistente conversacional con RAG (FAISS) que orienta a víctimas de violencia política de género y genera su denuncia en PDF. |
+| 🏋️ **[Hexfit](https://github.com/DeadAVA/Hexfit)** | App offline-first para crear rutinas de entrenamiento, con cliente móvil (React Native) y de escritorio (Python) compartiendo la misma base SQLite. |
+| 🍓 **[Strawberry Game](https://github.com/DeadAVA/StraberryGame)** | Plataformero 2D en Pygame con IA de compañero de 4 modos, parallax multicapa y guardado de partida. |
 
-**EN:**
-- ⭐ Coding for fun ⭐  
-- 📲 Web Developer and Videogames Developer
-
-**ES:**
-- ⭐ Programo por diversión ⭐  
-- 📲 Desarrollador Web y de Videojuegos
+Ver todos los repositorios: [github.com/DeadAVA?tab=repositories](https://github.com/DeadAVA?tab=repositories)
 
 ---
 
-## Featured Projects / Proyectos destacados
-
-
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/DeadAVA">
