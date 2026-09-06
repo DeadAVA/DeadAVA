@@ -32,11 +32,11 @@
 | Proyecto | Descripción |
 |---|---|
 | 🎓 **[Vertex Academic](https://github.com/DeadAVA/Vertex)** | Plataforma SaaS de aprendizaje de matemáticas: cursos, solver asistido por IA (Claude), suscripciones con Stripe y panel admin. Next.js + Prisma + PostgreSQL. |
+| 💈 **[JBarberConect](https://github.com/DeadAVA/JBarberConect)** | Marketplace de barberos a domicilio y locales fijos: agenda en tiempo real, seguimiento en vivo, pagos, planes de suscripción y cumplimiento fiscal. Flask + FastAPI. *(vitrina — código privado)* |
 | 🧪 **[FICOTOX](https://github.com/DeadAVA/FICOTOX)** | Sistema web de gestión de laboratorio: inventario, muestras, trazabilidad, SSO corporativo y respaldos automáticos. Flask + SQLAlchemy. |
+| 🛒 **[Ecommerce Platform](https://github.com/DeadAVA/ecommerce)** | Plataforma de comercio electrónico con carrito, checkout, pagos vía PayPal y cálculo de envío por zonas. Flask + MySQL. |
 | 📅 **[Gestor de Horarios](https://github.com/DeadAVA/Gestor-de-Horarios)** | Sistema académico de horarios con reglas de negocio, migraciones, pruebas automatizadas y exportaciones a Excel/Word/PDF. Flask + SQLite. |
 | 🗣️ **[Voz Segura IA](https://github.com/DeadAVA/Voz-Segura-IA)** | Asistente conversacional con RAG (FAISS) que orienta a víctimas de violencia política de género y genera su denuncia en PDF. |
-| 🏋️ **[Hexfit](https://github.com/DeadAVA/Hexfit)** | App offline-first para crear rutinas de entrenamiento, con cliente móvil (React Native) y de escritorio (Python) compartiendo la misma base SQLite. |
-| 🍓 **[Strawberry Game](https://github.com/DeadAVA/StraberryGame)** | Plataformero 2D en Pygame con IA de compañero de 4 modos, parallax multicapa y guardado de partida. |
 
 Ver todos los repositorios: [github.com/DeadAVA?tab=repositories](https://github.com/DeadAVA?tab=repositories)
 
